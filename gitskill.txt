@@ -1,0 +1,2 @@
+git clone git@github.com:BillionsRichard/GitSkill.git
+this command is used to clone a remote repoistory to local.
