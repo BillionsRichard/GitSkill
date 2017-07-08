@@ -1,2 +1,4 @@
 git clone git@github.com:BillionsRichard/GitSkill.git
 this command is used to clone a remote repoistory to local.
+
+This 2 lines are used to test pull conflicts.
