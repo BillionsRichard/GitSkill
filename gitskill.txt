@@ -4,3 +4,8 @@ this command is used to clone a remote repoistory to local.
 This 2 lines are used to test pull conflicts.
 
 远端仓库更新这个文件。
+#本地工作区修改了，库上也修改了。为避免冲突做以下操作：
+1、剪切备份本地文件。
+2、git fetch origin master下载库上最新的文件到工作区。
+3、对比备份和库上文件进行合并。
+4、提交修改（合并文件）
